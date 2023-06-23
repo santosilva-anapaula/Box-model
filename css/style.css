@@ -1,0 +1,27 @@
+.div-flor-txt {
+    border: solid 20px blueviolet;
+    padding: 10px;
+
+    margin:auto;
+    margin-top: 100px;
+
+    width: 400px;
+    height: 400px;
+
+    background-image: url('../img/flor.jpg');
+    text-align: center;
+    box-shadow: inset 6px 6px 13px 6px red;
+    background-size: cover;
+
+    outline-width: 16px;
+    outline-style: double;
+    outline-color: rgb(174, 17, 114);
+}
+
+.txt {
+    padding-top: 100px;
+    font-style: italic;
+    font-size: 50px;
+    color: yellow;
+    font-weight: bold;
+}
